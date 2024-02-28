@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aadilalishaikh4745@gmail.com**
 
-- 📄 Know about my experiences [shorturl.at/eiqUX](shorturl.at/eiqUX)
+- 📄 Know about my experiences [Resume](shorturl.at/eiqUX)
 
 - ⚡ Fun fact **I once tried to teach a fish to climb a tree! 🐟🌳**
 
