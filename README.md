@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aadil Ali Shaikh</h1>
 <h3 align="center">A passionate Software Developer from India!</h3>
 <p align="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw22Qi_2bt2FLnYyhekiQF58&ust=1709225462930000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjioJa_zoQDFQAAAAAdAAAAABAR](https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif)" alt="Funny GIF">
+  <img src="![image](https://github.com/AadilAliShaikh/AadilAliShaikh/assets/113925609/48eba86f-1476-4a11-b531-42cb98b49123)
+>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadilalishaikh&label=Profile%20views&color=0e75b6&style=flat" alt="aadilalishaikh" /> </p>
 
